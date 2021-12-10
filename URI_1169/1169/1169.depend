@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1632839753 source:e:\code blocks\program\uri 1169\1169\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
